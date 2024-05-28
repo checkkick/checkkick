@@ -32,11 +32,9 @@ Feel free to explore my repositories, contribute, or reach out if you'd like to 
 
 ---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=checkkick&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=checkkick&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=checkkick&theme=dracula) 
 
 ---
 
 Happy coding! ✨
-
----
-
-This description is designed to be engaging and informative, showcasing your skills, projects, and personality. It invites others to explore your work and connect with you professionally.

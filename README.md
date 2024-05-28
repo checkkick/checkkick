@@ -10,11 +10,11 @@ I'm a passionate frontend developer with a strong background in React, Next.js, 
 - Styling: ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white) ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)
 
 ## 🚀 Projects
-### [Project 1](link_to_project_1)
-A comprehensive project showcasing key features and technologies used, demonstrating my expertise in building scalable web applications.
+### [PewPewBuy](https://github.com/checkkick/pewpewbuy-frontend)
+An online store for the purchase and sale of airsoft equipment, implemented on Nuxt 3.
 
-### [Project 2](link_to_project_2)
-Another significant project that highlights my skills in creating responsive and user-friendly interfaces.
+### [Triumf](https://github.com/checkkick/triumf-frontend)
+A single-page web application implemented using Next.js.
 
 ## 🌱 Currently Learning
 Exploring the depths of server-side rendering (SSR) and static site generation (SSG) with Next.js and Nuxt.js. Enhancing my skills in state management and performance optimization.

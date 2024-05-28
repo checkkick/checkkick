@@ -1,82 +1,27 @@
-<h2>Hi there, I'm Konstantin! 👋</h2>
+# Hi there, I'm Konstantin! 👋
 
-<h3>Frontend Developer | React, Next.js, Vue, Nuxt.js, TypeScript</h3>
+## About Me
+I'm a passionate frontend developer with a strong background in React, Next.js, Vue, and Nuxt.js. My journey in web development is fueled by a commitment to clean code, innovative design, and delivering exceptional user experiences.
 
-<p>
-  Welcome to my GitHub profile! I'm a passionate frontend developer with a knack for creating dynamic and responsive web applications. My journey in web development is driven by a love for clean code, innovative design, and user-centric experiences.
-</p>
-<h3>💡 What I Do:</h3>
-<ul>
-  <li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="24" height="24"/>
-    <strong>React & Next.js</strong>: Building powerful and performant web applications with a focus on scalability and maintainability.
-  </li>
-  <li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="24" height="24"/>
-    <strong>Vue & Nuxt.js</strong>: Crafting intuitive and seamless user interfaces, leveraging the flexibility and simplicity of Vue and the powerful features of Nuxt.
-  </li>
-  <li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="24" height="24"/>
-    <strong>TypeScript</strong>: Writing robust, type-safe code to improve development efficiency and minimize runtime errors.
-  </li>
-</ul>
+## 🔧 Tech Stack
+- Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+- Frameworks & Libraries: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?logo=nuxt.js&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![Vuex](https://img.shields.io/badge/-Vuex-4FC08D?logo=vue.js&logoColor=white)
+- Tools: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black) ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=black)
+- Styling: ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white) ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)
 
-<h3>🔧 Tech Stack:</h3>
-<ul>
-  <li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="24" height="24"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="24" height="24"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="24" height="24"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="24" height="24"/>
-    <strong>Languages</strong>: JavaScript, TypeScript, HTML, CSS
-  </li>
-  <li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="24" height="24"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="24" height="24"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="24" height="24"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="24" height="24"/>
-    <strong>Frameworks & Libraries</strong>: React, Next.js, Vue, Nuxt.js, Redux, Vuex
-  </li>
-  <li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="24" height="24"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" width="24" height="24"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" width="24" height="24"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESLint" width="24" height="24"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" alt="Prettier" width="24" height="24"/>
-    <strong>Tools & Platforms</strong>: Git, Webpack, Babel, ESLint, Prettier
-  </li>
-  <li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="24" height="24"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-plain.svg" alt="Styled Components" width="24" height="24"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="24" height="24"/>
-    <strong>Styling</strong>: Tailwind CSS, Styled Components, SASS
-  </li>
-</ul>
+## 🚀 Projects
+### [Project 1](link_to_project_1)
+A comprehensive project showcasing key features and technologies used, demonstrating my expertise in building scalable web applications.
 
-<h3>🌱 Currently Learning:</h3>
-<p>
-  Exploring the depths of server-side rendering (SSR) and static site generation (SSG) with Next.js and Nuxt.js.
-  Enhancing my skills in state management and performance optimization.
-</p>
+### [Project 2](link_to_project_2)
+Another significant project that highlights my skills in creating responsive and user-friendly interfaces.
 
-<h3>🚀 Projects:</h3>
-<ul>
-  <li>
-    <a href="link_to_project_1">Project 1</a>: Brief description of a notable project, highlighting key features and technologies used.
-  </li>
-  <li>
-    <a href="link_to_project_2">Project 2</a>: Another project showcasing your skills and expertise.
-  </li>
-</ul>
-<p>
-  Feel free to explore my repositories, contribute, or reach out if you'd like to collaborate on exciting projects. Together, let's build the future of the web!
-</p>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=checkkick&theme=panda" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=checkkick&theme=panda" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=checkkick&theme=panda" />
-<h3>🌟 Fun Fact:</h3>
-<p>
-  When I'm not coding, you can find me [hobby or personal interest], always looking for new ways to stay inspired and creative.
-</p>
+## 🌱 Currently Learning
+Exploring the depths of server-side rendering (SSR) and static site generation (SSG) with Next.js and Nuxt.js. Enhancing my skills in state management and performance optimization.
 
-<p>Happy coding! ✨</p>
+I am always open to new opportunities and collaborations. If you're looking for a dedicated and skilled frontend developer to join your team or contribute to your project, feel free to reach out. Let's build the future of the web together!
+
+## 🌟 Fun Fact
+When I'm not coding, you can find me on jogging, always looking for new ways to stay inspired and creative.
+
+Happy coding! ✨

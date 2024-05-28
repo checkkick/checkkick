@@ -26,6 +26,5 @@ When I'm not coding, you can find me on jogging, always looking for new ways to 
 
 Happy coding! ✨
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=checkkick&theme=panda) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=checkkick&theme=panda)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=checkkick&theme=panda) 

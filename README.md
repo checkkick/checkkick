@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name]! 👋
+## Hi there, I'm Konstantin! 👋
 
 ### Frontend Developer | React, Next.js, Vue, Nuxt.js, TypeScript
 
@@ -31,9 +31,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer with a knack f
 Feel free to explore my repositories, contribute, or reach out if you'd like to collaborate on exciting projects. Together, let's build the future of the web!
 
 ---
-
-### 🌟 Fun Fact:
-When I'm not coding, you can find me [hobby or personal interest], always looking for new ways to stay inspired and creative.
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=checkkick&theme=dracula) 
 
 ---
 

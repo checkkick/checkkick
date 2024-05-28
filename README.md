@@ -25,3 +25,7 @@ I am always open to new opportunities and collaborations. If you're looking for 
 When I'm not coding, you can find me on jogging, always looking for new ways to stay inspired and creative.
 
 Happy coding! ✨
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=checkkick&theme=panda) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=checkkick&theme=panda)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=checkkick&theme=panda) 

@@ -1,13 +1,10 @@
-<h2>Hi there, I'm [Your Name]! 👋</h2>
+<h2>Hi there, I'm Konstantin! 👋</h2>
 
 <h3>Frontend Developer | React, Next.js, Vue, Nuxt.js, TypeScript</h3>
 
 <p>
   Welcome to my GitHub profile! I'm a passionate frontend developer with a knack for creating dynamic and responsive web applications. My journey in web development is driven by a love for clean code, innovative design, and user-centric experiences.
 </p>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=checkkick&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=checkkick&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=checkkick&theme=dracula) 
 <h3>💡 What I Do:</h3>
 <ul>
   <li>
@@ -71,17 +68,12 @@
     <a href="link_to_project_2">Project 2</a>: Another project showcasing your skills and expertise.
   </li>
 </ul>
-<h3>🤝 Let's Connect:</h3>
-<p>
-  <a href="link_to_linkedin"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="24" height="24"/></a>
-  <a href="link_to_twitter"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="24" height="24"/></a>
-  <a href="link_to_website"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" width="24" height="24"/></a>
-</p>
-
 <p>
   Feel free to explore my repositories, contribute, or reach out if you'd like to collaborate on exciting projects. Together, let's build the future of the web!
 </p>
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=checkkick&theme=dracula" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=checkkick&theme=dracula" />
+<img src="github-profile-summary-cards.vercel.app/api/cards/stats?username=checkkick&theme=dracula" />
 <h3>🌟 Fun Fact:</h3>
 <p>
   When I'm not coding, you can find me [hobby or personal interest], always looking for new ways to stay inspired and creative.

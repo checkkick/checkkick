@@ -22,7 +22,7 @@ Exploring the depths of server-side rendering (SSR) and static site generation (
 I am always open to new opportunities and collaborations. If you're looking for a dedicated and skilled frontend developer to join your team or contribute to your project, feel free to reach out. Let's build the future of the web together!
 
 ## 🌟 Fun Fact
-When I'm not coding, you can find me on jogging, always looking for new ways to stay inspired and creative.
+When I'm not coding, you can find me jogging, always looking for new ways to stay inspired and creative.
 
 Happy coding! ✨
 
